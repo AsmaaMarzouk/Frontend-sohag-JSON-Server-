@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "LabTop"
+    },
+    {
+      "id": 2,
+      "name": "TV"
+    },
+    {
+      "id": 3,
+      "name": "Mobile"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell",
+      "price": 12000,
+      "quantity": 0,
+      "imgURL": "https://fakeimg.pl/250x100",
+      "catID": 1
+    },
+    {
+      "id": 6,
+      "name": "Lenovo",
+      "price": 23000,
+      "quantity": 3,
+      "imgURL": "https://fakeimg.pl/250x100",
+      "catID": 1
+    },
+    {
+      "id": 11,
+      "name": "LG",
+      "price": 44000,
+      "quantity": 2,
+      "imgURL": "https://fakeimg.pl/250x100",
+      "catID": 2
+    },
+    {
+      "id": 20,
+      "name": "Samsung",
+      "price": 15800,
+      "quantity": 6,
+      "imgURL": "https://fakeimg.pl/250x100",
+      "catID": 3
+    },
+    {
+      "id": 33,
+      "name": "Tornado",
+      "price": 25000,
+      "quantity": 4,
+      "imgURL": "https://fakeimg.pl/250x100",
+      "catID": 2
+    }
+  ]
+}
